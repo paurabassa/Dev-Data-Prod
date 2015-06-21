@@ -4,7 +4,7 @@ Pau Rabassa
 
 ---
 
-This document describes the shinyapp developed as the final assigment of the course *Developing Data Products*. 
+This document describes [this shinyapp](https://paurabassa.shinyapps.io/project) developed as the final assigment of the course *Developing Data Products*. 
 
 It uses the shinny interface to visualize the data in the `HairEyeColor` dataset. 
 This dataset is a 3-dimensional array resulting from cross-tabulating 592 
